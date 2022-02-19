@@ -16,7 +16,7 @@
 - 🤔 I’m looking for help with AI-Computer Vision
 - 💬 Ask me about Flutter, PHP, JavaScript, Getting Started
 - 📫 How to reach me: jmushi175@gmail.com, +255 625 528 592
-- 😄 Pronouns: Mr. Bro. 💪💪  
+- 😄 Pronouns: Mr.  Bro. 💪💪  
 - ⚡ Fun fact: It cannot always be night ✨✨
 
 
