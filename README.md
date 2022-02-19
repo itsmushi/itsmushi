@@ -8,7 +8,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- code social  https://coder.social/itsmushi
+<!-- - code social  https://coder.social/itsmushi -->
 
 - 🔭 I’m currently working on Flutter-Node
 - 🌱 I’m currently learning NodeJs,Computer Vision
