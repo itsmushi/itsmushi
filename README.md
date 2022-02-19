@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning NodeJs,Computer Vision
 - 👯 I’m looking to collaborate on Flutter, NodeJs, React  
 - 🤔 I’m looking for help with AI-Computer Vision
-- 💬 Ask me about Flutter, PHP, JavaScript, Getting Started
+- 💬 Ask me about Flutter, PHP, JavaScript, Getting Started <a href="https://github.com/itsmushi/itsmushi/issues" > here</a>
 - 📫 How to reach me: jmushi175@gmail.com, +255 625 528 592
 - 😄 Pronouns: Mr.  Bro. 💪💪  
 - ⚡ Fun fact: It cannot always be night ✨✨
